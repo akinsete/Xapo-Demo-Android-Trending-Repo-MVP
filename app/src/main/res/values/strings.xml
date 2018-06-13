@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trending</string>
+    <string name="main_title">Trending Android Repos (MVP)</string>
+    <string name="loading_more">Loading more...</string>
+</resources>
